@@ -1,8 +1,10 @@
-# 3-2-Exercises
+# 3-2-Exercises - Counting Chickens
 
-### Things I learned:
-- Other data types like bytes, shorts, and longs.
-- Operators like ```++```, ```+=```, and ```/=``` to perform math on variables in a more concise way.
-- Cumulative variables.
-- Adding inputs to a method and returning a value.
-- Performing math between different data types, such as ints and doubles.
+### Things I learned (both in the lesson and in class):
+- Other integer data types, such as bytes, shorts, and longs.
+- The difference between floats and doubles.
+- Shorthand operators like ```+=``` and ```/=``` to perform math on variables in a more concise way.
+- Increment/decrement operators like ```++```, and the difference between placing them before or after a variable.
+- Getting the correct result when performing math on ints and doubles.
+- Using parentheses to dictate the order of operation in math equations.
+- Adding parameters to a method and returning a value.
