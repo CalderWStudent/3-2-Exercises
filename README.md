@@ -1,4 +1,4 @@
-# 3-2-Exercises - Counting Chickens
+# 3-2 Exercises - Counting Chickens
 
 ### Things I learned (both in the lesson and in class):
 - Other integer data types, such as bytes, shorts, and longs.
