@@ -28,10 +28,10 @@ public class Chickens01 {
     }
 
     public static void printInfo(String day, int chickenCount, int currentEggs, int totalEggs) {
+        System.out.println("");
         System.out.println(day + ": ");
         System.out.println("- Number of chickens: " + chickenCount);
         System.out.println("- Eggs collected: " + currentEggs);
         System.out.println("- Total eggs collected: " + totalEggs);
-        System.out.println("");
     }
 }
